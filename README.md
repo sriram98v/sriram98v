@@ -14,7 +14,7 @@
 <img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Rust" width="26px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-<img align="left" alt="Arch Linux" width="26px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
+<img align="left" alt="Arch Linux" width="26px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />
 
 <br />
 <br />
